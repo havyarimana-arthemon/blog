@@ -20,13 +20,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Statistic end unformatic
 - Programmation
-- 
 
 # Education to show in About widget
 education:
   courses:
   - course: Master in applied statistic end unformatic
-    institution:RUDN University
+    institution: RUDN University
     year: 2020
   - course: Bacherier in Mathematic
     institution: University of Burundi

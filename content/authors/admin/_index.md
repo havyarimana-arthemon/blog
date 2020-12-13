@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Statistic end unformatic
+- Statistic and informatic
 - Programmation
 
 # Education to show in About widget

@@ -39,7 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-## Ссылки на научные и библиометрические ресурсы:
+## СЃСЃС‹Р»РєРё РЅР° РЅР°СѓС‡РЅС‹Рµ Рё Р±РёР±Р»РёРѕРјРµС‚СЂРёС‡РµСЃРєРёРµ СЂРµСЃСѓСЂСЃС‹
 * [eLibrary](https://www.elibrary.ru/defaultx.asp?)
 * [googlescorala](https://scholar.google.com/)
 * [ORCID](https://orcid.org/)
@@ -49,4 +49,4 @@ design:
 * [ariv.org](https://arxiv.org/)
 * [gitHub](https://github.com/)
 ---
-## Les etudes a Moscou
+## La Vie a Moscou

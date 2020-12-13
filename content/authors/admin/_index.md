@@ -24,10 +24,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master in applied statistic end unformatic
+  - course: Master in application of mathematics and computer science 
     institution: RUDN University
     year: 2020
-  - course: Bacherier in Mathematic
+  - course: Bachelor in Mathematic
     institution: University of Burundi
     year: 2006
   - course: Secondary School

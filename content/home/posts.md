@@ -39,3 +39,14 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+## —сылки на научные и библиометрические ресурсы:
+* [eLibrary](https://www.elibrary.ru/defaultx.asp?)
+* [googlescorala](https://scholar.google.com/)
+* [ORCID](https://orcid.org/)
+* [Mandeley](https://www.mendeley.com/?interaction_required=true)
+* [Research Gate](https://www.researchgate.net/)
+* [Academia.edu](https://www.academia.edu/)
+* [ariv.org](https://arxiv.org/)
+* [gitHub](https://github.com/)
+---
+## Les etudes a Moscou

@@ -6,7 +6,7 @@ title: HAVYARIMANA-Arthemon
 superuser: true
 
 # Role/position/tagline
-role: Student of University RUDN
+role: Student of University RUDN/CITY MOSCOU in RUSSIA
 
 # Organizations/Affiliations to show in About widget
 organizations:

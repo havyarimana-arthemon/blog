@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "s"
+title: "ссылки на научные и библиометрические ресурсы:"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,3 +27,11 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+* [eLibrary](https://www.elibrary.ru/defaultx.asp)
+* [Google Sschola](https://scholar.google.com/)
+* [ORCID](https://orcid.org/)
+* [Mendeley](https://www.mendeley.com/)
+* [ResearchGate](https://www.researchgate.net/)
+* [academia](https://www.academia.edu/)
+* [arxiv](https://arxiv.org/)
+* [github](https://github.com/)

@@ -41,16 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:yarthemon@gmail.com
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+- icon: github 
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://havyarimana-arthemon.github.io/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/

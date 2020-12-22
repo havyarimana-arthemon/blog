@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: open business site in my country.
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"
@@ -29,5 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-in my project, i have to work and finish my studies
 after stadies, open business site in my country

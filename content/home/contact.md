@@ -10,9 +10,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle: 
-+7 977 907 96 80
-yarthemon@gmail.com
+subtitle:
 
 content:
   # Automatically link email and phone or display as text?

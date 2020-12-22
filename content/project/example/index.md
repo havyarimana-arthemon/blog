@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: open business site in my country.
+summary:"open business site in my country" 
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

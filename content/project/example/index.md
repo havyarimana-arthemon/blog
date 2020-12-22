@@ -1,10 +1,9 @@
 ---
-title: Example Project
-summary:"open business site in my country" 
-tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+# Documentation: https://wowchemy.com/docs/managing-content/
 
+title: "My project"
+summary: "open business site in my country" 
+tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -25,7 +24,7 @@ url_video: ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   E.g. `slides = "open business site in my country"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
 ---

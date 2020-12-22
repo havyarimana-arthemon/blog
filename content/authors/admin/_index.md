@@ -31,7 +31,7 @@ education:
     institution: University of Burundi
     year: 2009
   - course: student
-    Secondary School: Lycee of Romonge
+    institution: Lycee of Romonge
     year:2004
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

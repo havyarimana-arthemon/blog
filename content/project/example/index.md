@@ -28,6 +28,6 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: example
-in my project, i have to work and finish my studies
 ---
 in my project, i have to work and finish my studies
+after stadies, open business site in my country

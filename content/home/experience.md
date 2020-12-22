@@ -32,8 +32,8 @@ experience:
         Responsibilities include:
         
         *high school teacher
-        *inspector
-        *advisor
+        *inspector, Ministry of Education
+        *advisor 
   - title: 
     company: Ministry of Education
     company_url: ''

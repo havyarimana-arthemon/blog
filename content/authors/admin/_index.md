@@ -29,11 +29,10 @@ education:
     year: 2020
   - course: Bachelor in Mathematic
     institution: University of Burundi
-    year: 2006
-  - course: Secondary School
-    institution: Lycee of Rumonge
-    year: 1999
-
+    year: 2009
+  - course: student
+    Secondary School: Lycee of Romonge
+    year:2004
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

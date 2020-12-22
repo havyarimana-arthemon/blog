@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 
-    company: Mimistry of Education
+    company: Ministry of Education
     company_url: ''
     location: Burundi
     date_start: '2010-04-15'
@@ -32,7 +32,7 @@ experience:
         Responsibilities include:
         
         *high school teacher
-        *inspector, Ministry of Education
+        *inspector
         *advisor 
   - title: 
     company: Ministry of Education

@@ -24,7 +24,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master in application of mathematics and computer science 
+  - course: Student 
     institution: RUDN University
     year: 2020
   - course: Bachelor in Mathematic
@@ -69,6 +69,6 @@ email: ""
 highlight_name: false
 ---
 
-Arthemon HAVYARIMANA - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Arthemon HAVYARIMANA - I am student at the Russian University of friendship of peoples. I study in the Departement of Applied Mathematics and computer science
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

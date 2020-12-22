@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Burundi
     date_start: '2010-01-01'
-    date_end: '2016'
+    date_end: '2016-01-01'
     description: |2-
         Responsibilities include:
         

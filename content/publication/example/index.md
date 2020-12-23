@@ -28,7 +28,6 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *business environment*
 publication_short: In *ICW*
-
 abstract: In the business world, the movement of people and goods must be ensured.In additional the exchange of goods must take place in a climate allowing a fairly  close collaboration.
 
 # Summary. An optional shortened abstract.

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My project"
-summary: "open business site in my country" 
+title: "Проекты"
+summary: "открытый бизнес-сайт в моей стране" 
 tags:
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -14,7 +14,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Следовать
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
@@ -28,4 +28,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-after stadies, open business site in my country
+после учобы, открытый бизнес-сайт в моей стране.

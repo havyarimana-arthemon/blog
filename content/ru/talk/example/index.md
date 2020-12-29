@@ -38,7 +38,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: Следовать
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""

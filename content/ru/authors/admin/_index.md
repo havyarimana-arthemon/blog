@@ -1,16 +1,16 @@
 ---
 # Display name
-title: HAVYARIMANA-Arthemon
+title: ХАВЬЯРИМАНА-Артемон
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Student of University RUDN/CITY MOSCOU in RUSSIA
+role: Студент Университета РУДН / город Москва в России
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: RUDN UNIVERSITY
+- name: Российский университет дружбы народов
   url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,20 +18,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Statistic and informatic
+- прикланная математика и информатика
 - Programmation
 
 # Education to show in About widget
 education:
   courses:
-  - course: Student 
-    institution: RUDN University
+  - course: Студент
+    institution: Российский университет дружбы народов
     year: 2020
-  - course: Bachelor in Mathematic
+  - course: Студент
     institution: University of Burundi
     year: 2009
-  - course: student
-    institution: Lycee of Romonge
+  - course: Бакалавр по математике
+    institution: школа 
     year: 2004
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Arthemon HAVYARIMANA - I am student at the Russian University of friendship of peoples. I study in the Departement of Applied Mathematics and computer science
+Артемон ХАВЬЯРИМАНА-я студент Российского университета дружбы народов. Я учусь на факультете прикладной математики и информатики
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

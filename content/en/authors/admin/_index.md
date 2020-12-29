@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Statistic and informatic
+- Applied Mathematics and Computer Science
 - Programmation
 
 # Education to show in About widget
@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Arthemon HAVYARIMANA - I am student at the Russian University of friendship of peoples. I study in the Departement of Applied Mathematics and computer science
+Arthemon HAVYARIMANA - I am student at the Russian University of friendship of peoples. I study in the Departement of Applied Mathematics and Computer Science
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

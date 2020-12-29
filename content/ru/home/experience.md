@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Январь 2006 года
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -23,22 +23,21 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 
-    company: Ministry of Education
+    company: Министерство образования
     company_url: ''
-    location: Burundi
+    location: Бурунди
     date_start: '2010-04-15'
     date_end: '2016-01-01'
     description: |2-
         Responsibilities include:
         
-        *high school teacher
-        *inspector
-        *advisor 
+        *учитель средней школы
+        *инспектор
+        *советник 
   - title: 
-    company: Ministry of Education
+    company: Министерство образования
     company_url: ''
-    location: Burundi
+    location: Бурунди
     date_start: '2015-01-01'
     date_end: '2019-10-06'
-    description: the education curriculum officer at the Ministry of Education.
----
+    description: сотрудник по учебной программе Министерства образования

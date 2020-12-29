@@ -29,7 +29,7 @@ experience:
     date_start: '2010-04-15'
     date_end: '2016-01-01'
     description: |2-
-        Responsibilities include:
+        Обязанности включают:
         
         *учитель средней школы
         *инспектор
